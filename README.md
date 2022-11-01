@@ -1,7 +1,7 @@
 # Financial Planner
 
 ## This Python Notebook contains code to analyze the performance of assets
-The goal of the analysis is to determine 1) if the value of the assets covers emergency expenses, and 2) simulate the performance in the futurethe performs a quantitative analysis of the a variety of portfolios for comparison
+The goal of the analysis is to determine 1) if the value of the assets covers emergency expenses, and 2) simulate the performance in the futurethe performs a quantitative analysis of the a variety of portfolios for comparison. The main content of the assignment is contained in `financial-planner.ipynb`
 
 ## Code and Dependencies
 This code is to be run on 
